@@ -1,5 +1,5 @@
 # Hackathon-by-Raunak-and-Sudhanshu
-The probl;em title is:-Food Waste Reduction System.The problem solution ID is:-CBP14.
+The problem title is:-Food Waste Reduction System.The problem solution ID is:-CBP14.
 This website has been developed by me,Raunak Kumar(Reg. no.:-12311522) and my teammate Sudhanshu Ranjan(Reg. no.:-12313589).It is not completed yet but we are trying to complete it asap.But we have done or create something.The name of our website is Travel blog(Aware about food wastage).
 Code for this website is:-
 <!DOCTYPE html>
