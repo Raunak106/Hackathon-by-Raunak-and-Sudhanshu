@@ -109,7 +109,6 @@ Code for this website is:-
     <footer>
         <p>&copy; 2023 My Travel Adventures</p>
     </footer>
-
 </body>
 </html>
 And another code for css is:-
